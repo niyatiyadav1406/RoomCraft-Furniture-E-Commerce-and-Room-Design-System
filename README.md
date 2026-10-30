@@ -1,0 +1,2 @@
+# RoomCraft-Furniture-E-Commerce-and-Room-Design-System
+RoomCraft is a furniture e-commerce system that allows users to explore furniture products, add items to their shopping cart, place orders, and manage payments. It also includes a room-generation feature that helps users visualize furniture in a room. The system provides product management, user management, order tracking, and inventory management.
